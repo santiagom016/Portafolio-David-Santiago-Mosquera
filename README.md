@@ -37,7 +37,7 @@ Trabajo en equipo • Comunicación técnica • Resolución de problemas • Ap
 Sistema de seguridad con sensor PIR y cámara conectados a una Raspberry Pi. Envía alertas automáticas mediante Telegram.  
 **Herramientas:** Node-RED, Python, Telegram Bot API, Raspberry Pi, cámara USB.  
 
-### 🤖 Prototipo de Agente IA para Gestión de Documentos (E3T)  
+### 🤖 Prototipo de Agente IA para Gestión de Documentos E3T (En desarrolo)  
 Agente inteligente para organizar y buscar información académica usando **Pinecone** y **procesamiento de lenguaje natural**.  
 **Herramientas:** Python, Pinecone, OpenAI API, bases de datos documentales.  
 
