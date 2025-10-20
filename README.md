@@ -21,7 +21,6 @@ Me apasiona integrar hardware, software e inteligencia artificial en proyectos r
 | **Lenguajes** | Python, C/C++, MATLAB, JavaScript |
 | **Sistemas embebidos** | Raspberry Pi, ESP32, Arduino |
 | **Plataformas IoT** | Node-RED, Telegram Bot API, MQTT |
-| **Diseño electrónico** | KiCad, Proteus, LTspice |
 | **IA y datos** | Chatbots, Pinecone, OpenAI API |
 | **Desarrollo Web** | HTML, CSS, React, Node.js |
 
