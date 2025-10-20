@@ -58,7 +58,8 @@ _(En curso)_
 ---
 
 ## 🌐 Enlaces  
-- [LinkedIn]([https://linkedin.com/in/usuario](https://www.linkedin.com/in/santiago-mosquera-235228370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
+- [LinkedIn]([https://linkedin.com/in/usuario](https://www.linkedin.com/in/santiago-mosquera-235228370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+   
 
 
 ---
