@@ -3,7 +3,7 @@
 **Estudiante de Ingeniería Electrónica – Universidad Industrial de Santander (UIS)**  
 📧 santiagomosquera0023@gmail.com 📞 302 656 3886  
 📍 Bucaramanga, Colombia  
-🔗 [LinkedIn](https://linkedin.com/in/usuario) | [GitHub](https://github.com/usuario)  
+🔗 [LinkedIn]([https://linkedin.com/in/usuario](https://www.linkedin.com/in/santiago-mosquera-235228370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )) | [GitHub](https://github.com/usuario)  
 
 ---
 
@@ -58,9 +58,8 @@ _(En curso)_
 ---
 
 ## 🌐 Enlaces  
-- [LinkedIn](https://linkedin.com/in/usuario)  
-- [GitHub](https://github.com/usuario)  
-- [Demostraciones en video (Drive o YouTube)](https://drive.google.com/)  
+- [LinkedIn]([https://linkedin.com/in/usuario](https://www.linkedin.com/in/santiago-mosquera-235228370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))  
+
 
 ---
 
